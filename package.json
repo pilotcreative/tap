@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "keywords": [],
   "dependencies": {
-    "event-component": "*",
-    "bind-component": "*"
+    "event-component": "0.1.4",
+    "bind-component": "1.0.0"
   },
   "development": {},
   "license": "MIT",
